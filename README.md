@@ -53,13 +53,13 @@ System-Resource-Usage-and-Anomaly-Prediction
 Clone the repository:
 
 ```id="clonecmd"
-git clone https://github.com/ronit-khupase/System-Resource-Usage-and-Anomaly-Prediction-.git
+git clone https://github.com/ronit-khupase/System-Resource-Usage-and-Anomaly-Prediction.git
 ```
 
 Move into the project directory:
 
 ```id="cdcmd"
-cd System-Resource-Usage-and-Anomaly-Prediction-
+cd System-Resource-Usage-and-Anomaly-Prediction
 ```
 
 Install dependencies:
@@ -139,4 +139,5 @@ The project provides:
 
 GitHub:
 https://github.com/ronit-khupase
+
 
